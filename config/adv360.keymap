@@ -63,7 +63,7 @@
             bindings = <
  &kp F1     &kp F2      &kp F3        &kp F4      &kp F5  &kp F6            &tog 1                                                   &mo 3  &kp F7        &kp F8        &kp F9       &kp F10       &kp F11  &kp F12
  &trans &trans  &kp LC(F4)  &kp LS(F6)  &kp LA(F4)  &kp LC(F6)              &none                                                   &none  &trans        &trans        &trans        &trans        &trans   &trans
- &trans     &trans      &trans        &trans      &LS(F10)  &trans             &none  &trans  &trans                  &trans  &trans   &none  &trans        &trans        &trans        &trans        &trans   &trans
+ &trans     &trans      &trans        &trans      &kp LS(F10)  &trans             &none  &trans  &trans                  &trans  &trans   &none  &trans        &trans        &trans        &trans        &trans   &trans
  &trans     &trans      &trans        &trans      &trans  &trans                            &trans                  &trans                  &trans        &trans        &trans        &trans        &trans   &trans
  &trans     &trans      &trans        &trans      &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &kp LA(N1)  &kp LA(N2)  &kp LA(N3)  &kp LA(N4)   &trans
             >;
