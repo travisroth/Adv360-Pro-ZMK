@@ -95,7 +95,7 @@
             bindings = <
     &kp EQUAL        &kp N1     &kp N2    &kp N3     &kp N4  &kp N5                        &tog 1                                                                                      &mo 3  &kp N6  &kp N7     &kp N8    &kp N9    &kp N0  &kp MINUS
    &kp ESCAPE         &kp Q      &kp W     &kp F      &kp P   &kp G            &kp K_CONTEXT_MENU                                                                            &kp PRINTSCREEN   &kp J   &kp L      &kp U     &kp Y     &kp SEMI   &kp BSLH
- &kp CAPSLOCK         &kp A      &kp R     &kp S      &mt macro_the T   &kp D                         &mo 1      &kp LCTRL  &kp LEFT_COMMAND                  &kp LEFT_ALT  &kp RCTRL  &kp PAUSE_BREAK   &kp H   &kp N      &kp E     &kp I  &kp O    &kp SQT
+ &kp CAPSLOCK         &kp A      &kp R     &kp S      &mt &macro_the T   &kp D                         &mo 1      &kp LCTRL  &kp LEFT_COMMAND                  &kp LEFT_ALT  &kp RCTRL  &kp PAUSE_BREAK   &kp H   &kp N      &kp E     &kp I  &kp O    &kp SQT
     &kp LSHFT         &kp Z      &kp X     &kp C      &kp V   &kp B                                                       &kp HOME                     &kp PG_UP                               &kp K   &kp M  &kp COMMA   &kp DOT  &kp FSLH  &kp RSHFT
         &mo 2  &kp LEFT_ALT  &kp GRAVE  &kp LEFT  &kp RIGHT                               &kp TAB  &kp BACKSPACE           &mt LC(LALT) END                       &kp TAB  &kp ENTER        &lt FUNCTIONS SPACE          &kp UP   &kp DOWN  &kp LBKT  &kp RBKT      &mo 2
             >;
